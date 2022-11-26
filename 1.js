@@ -1,0 +1,1 @@
+fetch('https://kinetic-valor-337400.asia-southeast1.firebasedata')
